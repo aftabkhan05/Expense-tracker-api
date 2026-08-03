@@ -44,6 +44,7 @@ MySQL Database
 
 
 📂 Project Structure
+
 src
  ├── controller
  ├── service
@@ -56,6 +57,7 @@ src
  └── util
 
 🚀 Features
+
 🔐 Authentication & Authorization
 • User Registration
 • User Login
@@ -66,6 +68,7 @@ src
 • Users can access only their own expense records
 
 💵 Expense Management
+
 • Add New Expense
 • Update Existing Expense
 • Delete Expense
@@ -73,6 +76,7 @@ src
 • View Expense by ID
 
 🔍 Filtering
+
 Users can filter expenses based on:
  • Category
  • Date Range
@@ -84,6 +88,7 @@ Users can filter expenses based on:
  • Expenses between two dates
 
 ✅ Validation
+
 Implemented request validation for:
 • Empty fields
 • Invalid amount
@@ -91,6 +96,7 @@ Implemented request validation for:
 • Missing required fields
 
 🔐 Authentication Flow
+
 Register User
       │
       ▼
@@ -111,6 +117,7 @@ Access Protected APIs
 
 
 📖 Key Learnings
+
 During this project, I gained practical experience in:
 
  • Building secure REST APIs using Spring Boot
@@ -122,6 +129,7 @@ During this project, I gained practical experience in:
  • API testing using Postman
 
 🚀 Future Improvements
+
 Expense Analytics Dashboard
 Monthly Expense Reports
 Budget Management
